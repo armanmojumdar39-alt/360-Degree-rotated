@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rotate360</string>
+    <string name="subtitle">Force any app to rotate in every direction.</string>
+    <string name="status_on">Service is running</string>
+    <string name="status_off">Service is stopped</string>
+    <string name="status_on_desc">Orientation control is active over all apps.</string>
+    <string name="status_off_desc">Tap Start to control rotation in every app.</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="mode_title">Orientation mode</string>
+    <string name="bubble_title">Floating quick-switch bubble</string>
+    <string name="bubble_desc">Drag it anywhere, tap to switch mode instantly.</string>
+    <string name="perm_ok">Overlay permission granted</string>
+    <string name="perm_needed">Overlay permission required ("Display over other apps")</string>
+    <string name="btn_perm">Grant permission</string>
+    <string name="footer">Rotate360 v1.0</string>
+</resources>
